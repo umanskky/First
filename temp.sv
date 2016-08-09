@@ -22,7 +22,7 @@ module trireg( input  logic [3:0] data,
 	end
 endmodule
 
-//***** Верхний уровень абстракции *****//////
+
 
 
 
