@@ -3,7 +3,7 @@
 //******* Автор : Уманский Александр	  ******//
 //******* Дата  : 09.08.2016			  ******//
 //******* Email : umanskky@gmail.com      ******// 
-//******* GitHub: lvbnkfsgnbksfjbn.com    ******//
+//******* 							      ******//
 //////////////////////////////////////////////////
 
 module trireg( input  logic [3:0] data,
@@ -22,7 +22,7 @@ module trireg( input  logic [3:0] data,
 	end
 endmodule
 
-
+//**************/// Хайло 
 
 
 
