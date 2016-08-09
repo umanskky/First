@@ -10,7 +10,7 @@ module trireg( input  logic [3:0] data,
 			   input  logic [2:0] reset_n,
 			   output logic [3:0] data_out
 			 );
-чдмьичмт члмюоитчи
+
  always_comb
 	if(!data) begin
 		case(data) begin
